@@ -1,0 +1,71 @@
+.header-overlay {
+      position: absolute;
+      top: 0;
+      width: 100%;
+      z-index: 10;
+    }
+
+    .hero-content {
+      position: relative;
+      z-index: 2;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .topbar {
+      font-size: 16px;
+      padding: 7px 0;
+      border-bottom: 1px solid #ccc;
+    }
+    
+
+.footer{
+    background-color: black;
+    
+}
+
+.footer h3{
+    color:  rgb(5, 190, 5);
+    font-family: 'Georgia', serif;
+
+}
+.footer h4{
+    font-family: 'Georgia', serif;
+}
+.footer button{
+  background-color:  rgb(5, 190, 5);
+}
+
+.foot{
+    transition: 0.3s;
+    color: white;
+  }
+  .foot:hover{
+    color:  rgb(5, 190, 5);
+     
+  } 
+ .lastt{
+    background-color: black;
+    border-top: 1px solid gray;
+ }
+ .fruit-ig i{
+    transition: 0.3s;
+    color: white;
+  }
+  .fruit-ig i:hover{
+     background-color: white;
+     color: black;
+     
+  } 
+  .csmss-clg{
+      transition: transform .9s;
+      color: gray;
+      
+    }
+    .csmss-clg:hover{
+      transform: scale(1.1);
+      color: white;
+    }
+

@@ -1,0 +1,212 @@
+.header-overlay {
+      position: absolute;
+      top: 0;
+      width: 100%;
+      z-index: 10;
+    }
+    
+
+    .topbar {
+      font-size: 16px;
+      padding: 7px 0;
+      border-bottom: 1px solid #ccc;
+    }
+    
+  
+
+    .car-title {
+      position: absolute !important;
+    left: -113px !important;
+    margin-top: -470px;
+    font-size: 75px;
+    font-family:   Lora, serif;
+    }
+
+    .btn-custum{
+      position: absolute !important;
+    left: 60px !important;
+    margin-top: -260px;
+    padding: 10px 40px !important;
+    }
+    .btn-eng{
+      position: absolute !important;
+    left: -104px !important;
+    margin-top: -260px;
+    padding: 10px 40px !important;
+    }
+
+    .btn-cus{
+        padding: 15px 40px !important;
+        font-weight: 500 !important;
+    }
+
+
+    
+    .check-icon {
+      color: rgb(5, 190, 5) ;
+      font-size: 1.2rem;
+    }
+    
+    .text-sec{
+        font-family:   Lora, serif;
+        font-size: 65px;
+        
+    }
+
+    .color{
+    background-color: rgb(5, 169, 57);
+   }
+   .btn-bro{
+    background-color: rgb(5, 169, 57) !important;
+   }
+    .product-item {
+    box-shadow: 0 0 45px rgba(0, 0, 0, .07);
+}
+
+.product-item img {
+    transition: .5s;
+}
+
+.product-item:hover img {
+    transform: scale(1.1);
+}
+
+.product-item small a:hover {
+    color:red;
+}
+
+.green-line {
+      height: 2px;
+      width: 200px;     /* Adjust length */
+      background-color: rgb(5, 190, 5);
+      margin: 20px auto;
+      border-radius: 1px;
+    }
+
+    .red-line {
+      height: 2px;
+      width: 300px;     /* Adjust length */
+      background-color: red;
+      margin: 20px auto;
+      border-radius: 1px;
+    }
+    .review-card {
+  background-color: whitesmoke;
+  padding: 60px 20px 60px 20px;
+ margin-left: 20px;
+  text-align: center;
+ font-size: 20px;
+  position: relative;
+}
+
+.quote-icon {
+  top: -20px;
+  left: 20px;
+  font-size: 40px;
+  color: rgb(5, 190, 5);
+}
+.owl-carousel .owl-item.center .review-card {
+  background-color: rgb(5, 190, 5);
+  color: #fff;
+}
+
+/* Change inner elements to white */
+.owl-carousel .owl-item.center .review-card .quote-icon{
+  color: rgb(255, 136, 0);
+}
+.owl-carousel .owl-item.center .review-card .client-name,
+.owl-carousel .owl-item.center .review-card .profession,
+.owl-carousel .owl-item.center .review-card p {
+  color: #fff;
+}
+ .custom-nav {
+      text-align: center;
+      margin-top: 30px;
+    }
+
+    .custom-nav button {
+      width: 60px;
+      height: 60px;
+      border-radius: 50%;
+      border: 3px solid rgb(5, 205, 2);
+      background-color: white;
+      color: #333;
+      font-size: 28px;
+      line-height: 1;
+      cursor: pointer;
+      transition: 0.3s ease;
+      margin: 0 10px;
+    }
+
+    .custom-nav button:hover {
+      background-color: rgb(5, 218, 3);
+      color: white;
+    }
+   .green-line {
+      height: 2px;
+      width: 100px;     /* Adjust length */
+      background-color: green;
+      margin: 20px auto;
+      border-radius: 1px;
+    }
+
+    .red-line {
+      height: 2px;
+      width: 200px;     /* Adjust length */
+      background-color: red;
+      margin: 20px auto;
+      border-radius: 1px;
+    }
+   .dark:hover{
+    color: rgb(5, 218, 5);
+   }
+    
+  .footer{
+    background-color: black;
+    margin-top: 5%;
+    
+}
+
+.footer h3{
+    color:  rgb(5, 190, 5);
+    font-family: 'Georgia', serif;
+
+}
+.footer h4{
+    font-family: 'Georgia', serif;
+}
+.footer button{
+  background-color:  rgb(5, 190, 5);
+}
+
+.foot{
+    transition: 0.3s;
+    color: white;
+  }
+  .foot:hover{
+    color:  rgb(5, 190, 5);
+     
+  } 
+ .lastt{
+    background-color: black;
+    border-top: 1px solid gray;
+ }
+ .fruit-ig i{
+    transition: 0.3s;
+    color: white;
+  }
+  .fruit-ig i:hover{
+     background-color: white;
+     color: black;
+     
+  } 
+  .csmss-clg{
+      transition: transform .9s;
+      color: gray;
+      
+    }
+    .csmss-clg:hover{
+      transform: scale(1.1);
+      color: white;
+    }
+

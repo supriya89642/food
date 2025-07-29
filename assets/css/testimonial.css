@@ -1,0 +1,134 @@
+.header-overlay {
+      position: absolute;
+      top: 0;
+      width: 100%;
+      z-index: 10;
+    }
+
+    .hero-content {
+      position: relative;
+      z-index: 2;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .topbar {
+      font-size: 16px;
+      padding: 7px 0;
+      border-bottom: 1px solid #ccc;
+    }
+    
+    
+
+.footer{
+    background-color: black;
+    
+}
+
+.footer h3{
+    color:  rgb(5, 190, 5);
+    font-family: 'Georgia', serif;
+
+}
+.footer h4{
+    font-family: 'Georgia', serif;
+}
+.footer button{
+  background-color:  rgb(5, 190, 5);
+}
+
+.foot{
+    transition: 0.3s;
+    color: white;
+  }
+  .foot:hover{
+    color:  rgb(5, 190, 5);
+     
+  } 
+ .lastt{
+    background-color: black;
+    border-top: 1px solid gray;
+ }
+ .fruit-ig i{
+    transition: 0.3s;
+    color: white;
+  }
+  .fruit-ig i:hover{
+     background-color: white;
+     color: black;
+     
+  } 
+  .csmss-clg{
+      transition: transform .9s;
+      color: gray;
+      
+    }
+    .csmss-clg:hover{
+      transform: scale(1.1);
+      color: white;
+    }
+
+ .green-line {
+      height: 2px;
+      width: 200px;     /* Adjust length */
+      background-color: rgb(5, 190, 5);
+      margin: 20px auto;
+      border-radius: 1px;
+    }
+
+    .red-line {
+      height: 2px;
+      width: 300px;     /* Adjust length */
+      background-color: red;
+      margin: 20px auto;
+      border-radius: 1px;
+    }
+    .review-card {
+  background-color: whitesmoke;
+  padding: 60px 20px 60px 20px;
+ margin-left: 20px;
+  text-align: center;
+ font-size: 20px;
+  position: relative;
+}
+
+.quote-icon {
+  top: -20px;
+  left: 20px;
+  font-size: 40px;
+  color: rgb(5, 190, 5);
+}
+.owl-carousel .owl-item.center .review-card {
+  background-color: rgb(5, 190, 5);
+  color: #fff;
+}
+
+/* Change inner elements to white */
+.owl-carousel .owl-item.center .review-card .quote-icon{
+  color: rgb(255, 136, 0);
+}
+.owl-carousel .owl-item.center .review-card .client-name,
+.owl-carousel .owl-item.center .review-card .profession,
+.owl-carousel .owl-item.center .review-card p {
+  color: #fff;
+}
+ .custom-nav {
+      text-align: center;
+      margin-top: 30px;
+    }
+
+    .custom-nav button {
+      width: 60px;
+      height: 60px;
+      border-radius: 50%;
+      border: 3px solid rgb(5, 205, 2);
+      background-color: white;
+      color: #333;
+      font-size: 28px;
+      line-height: 1;
+      cursor: pointer;
+      transition: 0.3s ease;
+      margin: 0 10px;
+    }
