@@ -11,6 +11,9 @@
       padding: 7px 0;
       border-bottom: 1px solid #ccc;
     }
+    .navbar-custom{
+      margin-top: 3%;
+    }
     
   
 
@@ -58,6 +61,7 @@
    }
    .btn-bro{
     background-color: rgb(5, 169, 57) !important;
+    color: white !important;
    }
     .product-item {
     box-shadow: 0 0 45px rgba(0, 0, 0, .07);
